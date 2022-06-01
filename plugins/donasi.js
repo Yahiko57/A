@@ -11,8 +11,8 @@ let anu = `*─────� DONATE 」 ───*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├📌telkomsel: 082146092695
-├📌gopay: +62 821 4609 2695
+├📌telkomsel: 6281283408836
+├📌gopay: +62 896 0214 7992
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
