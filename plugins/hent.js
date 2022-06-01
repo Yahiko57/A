@@ -10,10 +10,8 @@ handler.help = ['ass', 'bdsm', 'blowjob', 'boobjob', 'cum', 'creampie', 'cuckold
 handler.tags = ['dewasa']
 handler.command = /^(ass|bdsm|blowjob|boobjob|cum|creampie|cuckold|ero|elves|femdom|foot|gangbang|glasses|hentai|incest|masturbation|pantsu|orgy|tentacles|thighs|uniform|vagina|yuri)$/i
 
-handler.private = true
-handler.limit = 2
-handler.register = true
+handler.limit = 1
 
 module.exports = handler
 
-//by lui
+//by doi
