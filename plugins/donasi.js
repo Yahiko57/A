@@ -19,7 +19,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Arigatou!
 
 Contact person Owner:
-wa.me/6282146092695 (Owner)
+wa.me/6281283408836 (Owner)
 
 *donasi via follow ig juga boleh*`
   conn.sendFile(.mchat, gopay, 'gopay.jpg', anu, m)
