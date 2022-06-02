@@ -6,8 +6,8 @@ let handler = async (m, { conn }) => {
     let _timers = (86400000 - __timers)
     let timers = clockString(_timers) 
     if (new Date - user.lastclaim > 86400000) {
-        conn.reply(m.chat, `Anda sudah mengklaim dan mendapatkan 5000 💵money dan 3 potion`, m)
-        global.db.data.users[m.sender].money += 5000
+        conn.reply(m.chat, `Anda sudah mengklaim dan mendapatkan 50000000000 💵money dan 3 potion`, m)
+        global.db.data.users[m.sender].money += 50000000000
         global.db.data.users[m.sender].potion += 3
         global.db.data.users[m.sender].lastclaim = new Date * 1
     } else {
